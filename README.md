@@ -10,3 +10,5 @@ Un bac-à-sable pour s'entrainer avec git et github
 
 Tchoo tchoo
 depuis sandbox et unautre
+
+Les [contributions](CONTRIBUTING.md) sont bienvenues !
